@@ -57,7 +57,7 @@ IKT469_Project/
 | Experiment 2 | Removes question decomposition                 |
 | Experiment 3 | Removes broad query expansion                  |
 | Experiment 4 | Removes both decomposition and broad expansion |
-| Experiment 5 | Adds source validation                         |
+| Experiment 5 | Removes source validation                      |
 
 ---
 
