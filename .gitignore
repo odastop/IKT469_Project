@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.envrc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing and cache
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local project data
+cache/
+data/
+runs/
+
+# Serialized files
+*.pkl
