@@ -21,26 +21,30 @@ The goal is to evaluate how different pipeline components affect retrieval quali
 ## Project Structure
 
 ```text
-multi_agent_system/
+IKT469_Project/
 │
-├── experiments/
-│   ├── experiment1.py
-│   ├── experiment2.py
-│   ├── experiment3.py
-│   ├── experiment4.py
-│   └── experiment5.py
+├── multi_agent_system/
+│   │
+│   ├── experiments/
+│   │   ├── experiment1.py
+│   │   ├── experiment2.py
+│   │   ├── experiment3.py
+│   │   ├── experiment4.py
+│   │   └── experiment5.py
+│   │
+│   ├── results/
+│   │   ├── experiment1.json
+│   │   ├── experiment2.json
+│   │   ├── experiment3.json
+│   │   ├── experiment4.json
+│   │   └── experiment5.json
+│   │
+│   ├── ablation_analysis.ipynb
+│   └── source_validation.ipynb
 │
-├── results/
-│   ├── experiment1.json
-│   ├── experiment2.json
-│   ├── experiment3.json
-│   ├── experiment4.json
-│   └── experiment5.json
-│
-├── ablation_analysis.ipynb
-├── source_validation.ipynb
-├── requirements.txt
-└── README.md
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 ---
